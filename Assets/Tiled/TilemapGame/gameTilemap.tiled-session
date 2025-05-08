@@ -1,0 +1,50 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "TileSheet2.tsx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "Map.tmx": {
+            "scale": 2,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 40.25,
+                "y": 1.75
+            }
+        },
+        "TileSheet2.tsx": {
+            "scaleInDock": 2,
+            "scaleInEditor": 3
+        },
+        "Tilesheet.tsx": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 3
+        }
+    },
+    "last.imagePath": "C:/Users/47598670/Documents/comp1151prac-tilemapgame-sweetpea004/Assets/Tiled/TilemapGame",
+    "map.fixedSize": false,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "openFiles": [
+        "Tilesheet.tsx",
+        "Map.tmx",
+        "TileSheet2.tsx"
+    ],
+    "project": "gameTilemap.tiled-project",
+    "recentFiles": [
+        "Tilesheet.tsx",
+        "Map.tmx",
+        "TileSheet2.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.spacing": 1,
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}
